@@ -42,7 +42,6 @@ A Django-powered API platform for authentic local goods (farm produce, crafts) a
   - `allauth` (Google OAuth, email/password)
   - JWT via `rest_framework.authtoken`
 - **Database**: PostgreSQL (production), SQLite (development)
-- **Data Tools**: Pandas, NumPy, SQLAlchemy
 
 ### APIs & Integrations
 - **Internal**: RESTful endpoints with DRF
